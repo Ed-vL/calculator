@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/170102343/RecipeBuk/_apis/build/status/Ed-vL.calculator?branchName=master)](https://dev.azure.com/170102343/RecipeBuk/_build/latest?definitionId=1&branchName=master)
-
+![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/170102343/RecipeBuk/1?style=plastic)
 
 Calculator.js: a node.js Demonstration Project
 ==============================================
